@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\GVRDemo\Teleport.cs" />
+     <Compile Include="Assets\GoogleVR\Demos\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\PermissionsDemo\PermissionsFlowManager.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\ScrollingUIDemo\PaginatedScrolling\JumpToPage.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\ScrollingUIDemo\PaginatedScrolling\PageProviders\ChildrenPageProvider.cs" />
@@ -78,6 +79,7 @@
      <Compile Include="Assets\GoogleVR\Demos\Scripts\VideoDemo\ToggleAction.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\VideoDemo\VideoControlsManager.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\VideoDemo\VideoPlayerReference.cs" />
+     <Compile Include="Assets\GoogleVR\Demos\Scripts\txtTest.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\GazeInputModule.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\GvrHead.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\Internal\GvrCameraUtils.cs" />
@@ -178,13 +180,13 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="DotNetEmotivSDK-vs2010">
- <HintPath>C:/Users/LSG/AndroidStudioProjects/4Drone/Unity/Assets/DotNetEmotivSDK-vs2010.dll</HintPath>
+ <HintPath>C:/Users/LSG/AndroidStudioProjects/4Drone/Unity/Assets/GoogleVR/DotNetEmotivSDK-vs2010.dll</HintPath>
+ </Reference>
+ <Reference Include="DotNetEmotivSDK-vs2010">
+ <HintPath>C:/Users/LSG/AndroidStudioProjects/4Drone/Unity/Assets/Plugins/DotNetEmotivSDK-vs2010.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
  <HintPath>C:/Users/LSG/AndroidStudioProjects/4Drone/Unity/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
- </Reference>
- <Reference Include="DotNetEmotivSDK-vs2010">
- <HintPath>C:/Users/LSG/AndroidStudioProjects/4Drone/Unity/Assets/GoogleVR/DotNetEmotivSDK-vs2010.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
