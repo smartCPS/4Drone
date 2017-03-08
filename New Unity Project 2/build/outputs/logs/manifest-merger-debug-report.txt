@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:3:1-35:12
+	package
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:3:120-143
+	android:versionName
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:3:70-95
+		INJECTED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:3:96-119
+		INJECTED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:3:144-184
+application
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:4:3-15:17
+MERGED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:11:5-27:19
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.emotiv.sdk:community:3.3.4] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\com.emotiv.sdk\community\3.3.4\AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:4:50-82
+	android:supportsRtl
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:4:16-49
+	android:allowBackup
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:12:9-35
+	android:banner
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:4:105-142
+	android:isGame
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:4:83-104
+activity#com.google.unity.GoogleUnityActivity
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:5:5-13:16
+	android:screenOrientation
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:5:100-138
+	android:label
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:5:67-99
+	android:launchMode
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:5:139-170
+	android:configChanges
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:5:171-328
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:5:15-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER+com.google.intent.category.CARDBOARD
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:6:7-11:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:8:19-66
+category#com.google.intent.category.CARDBOARD
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:9:9-73
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:9:19-70
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:10:9-78
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:10:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:12:7-82
+	android:value
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:12:59-79
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:12:18-58
+meta-data#IMMERSIVE_MODE
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:14:46-66
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:14:16-45
+uses-sdk
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:17:3-72
+MERGED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr_android_common:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr_android_common\AndroidManifest.xml:3:5-73
+MERGED from [:unitygvractivity:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\unitygvractivity\AndroidManifest.xml:3:5-73
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.emotiv.sdk:community:3.3.4] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\com.emotiv.sdk\community\3.3.4\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:17:40-69
+		INJECTED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:17:13-39
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:18:3-66
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:18:20-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:19:3-72
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:19:20-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:20:3-77
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:20:20-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:21:3-78
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:21:20-76
+uses-feature#0x00020000
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:23:3-52
+	android:glEsVersion
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:23:17-49
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:24:3-96
+	android:required
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:24:70-93
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:24:17-69
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:25:3-92
+	android:required
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:25:66-89
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:25:17-65
+uses-permission#android.permission.NFC
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:26:3-60
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:26:20-57
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:27:3-78
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:27:20-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:28:3-65
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:28:20-62
+uses-feature#android.software.vr.mode
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:30:3-84
+	android:required
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:30:57-81
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:30:17-56
+uses-feature#android.hardware.vr.high_performance
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:31:3-96
+	android:required
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:31:69-93
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:31:17-68
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:32:3-88
+	android:required
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:32:61-85
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:32:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:33:3-99
+	android:required
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:33:72-96
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:33:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:34:3-108
+	android:required
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:34:81-105
+	android:name
+		ADDED from C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\src\main\AndroidManifest.xml:34:17-80
+activity#com.google.gvr.permissionsupport.TransitionVRActivity
+ADDED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:17:9-26:20
+	android:enableVrMode
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:20:13-106
+	android:label
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:21:13-45
+	android:configChanges
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:18:13-81
+intent-filter#android.intent.category.LAUNCHER+com.google.intent.category.DAYDREAM
+ADDED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:22:13-25:29
+category#com.google.intent.category.DAYDREAM
+ADDED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:24:17-80
+	android:name
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\LSG\AndroidStudioProjects\New Unity Project 2\build\intermediates\exploded-aar\gvr-permissionsupport-release\AndroidManifest.xml:24:27-77

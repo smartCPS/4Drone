@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png",
+        "source": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png",
+        "source": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png"
+    }
+]

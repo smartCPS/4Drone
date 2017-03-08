@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 93,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 270,
+                        "endColumn": 89,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 77,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 360,
+                        "endColumn": 73,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 86,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 434,
+                        "endColumn": 82,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 108,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 517,
+                        "endColumn": 104,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 200,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 622,
+                        "endColumn": 196,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 148,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 819,
+                        "endColumn": 144,
+                        "endOffset": 963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endColumn": 121,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 964,
+                        "endColumn": 117,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 83,
+                    "endOffset": 1024
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1082,
+                        "endColumn": 79,
+                        "endOffset": 1161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1029,
+                    "endColumn": 105,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1162,
+                        "endColumn": 101,
+                        "endOffset": 1263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1135,
+                    "endColumn": 106,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1264,
+                        "endColumn": 102,
+                        "endOffset": 1366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 108,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1367,
+                        "endColumn": 104,
+                        "endOffset": 1471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 83,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1472,
+                        "endColumn": 79,
+                        "endOffset": 1551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 258,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1552,
+                        "endColumn": 254,
+                        "endOffset": 1806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endColumn": 227,
+                    "endOffset": 1917
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 1807,
+                        "endColumn": 223,
+                        "endOffset": 2030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1922,
+                    "endColumn": 98,
+                    "endOffset": 2016
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2031,
+                        "endColumn": 94,
+                        "endOffset": 2125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2021,
+                    "endColumn": 107,
+                    "endOffset": 2124
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2126,
+                        "endColumn": 103,
+                        "endOffset": 2229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2129,
+                    "endColumn": 110,
+                    "endOffset": 2235
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 2230,
+                        "endColumn": 106,
+                        "endOffset": 2336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2240,
+                    "endColumn": 134,
+                    "endOffset": 2370
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 2337,
+                        "endColumn": 130,
+                        "endOffset": 2467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2375,
+                    "endColumn": 162,
+                    "endOffset": 2533
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 2468,
+                        "endColumn": 162,
+                        "endOffset": 2630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2538,
+                    "endColumn": 101,
+                    "endOffset": 2635
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 2631,
+                        "endColumn": 97,
+                        "endOffset": 2728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2640,
+                    "endColumn": 72,
+                    "endOffset": 2708
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 2729,
+                        "endColumn": 68,
+                        "endOffset": 2797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2713,
+                    "endColumn": 87,
+                    "endOffset": 2796
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 2798,
+                        "endColumn": 83,
+                        "endOffset": 2881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2801,
+                    "endColumn": 99,
+                    "endOffset": 2896
+                },
+                "from": {
+                    "file": "C:\\Users\\LSG\\AndroidStudioProjects\\New Unity Project 2\\build\\intermediates\\exploded-aar\\gvr_android_common\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 0,
+                        "startOffset": 2882,
+                        "endColumn": 95,
+                        "endOffset": 2977
+                    }
+                }
+            }
+        ]
+    }
+]

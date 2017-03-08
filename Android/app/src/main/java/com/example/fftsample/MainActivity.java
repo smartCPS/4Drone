@@ -13,10 +13,7 @@ import android.support.v4.app.ActivityCompat;
 import android.content.pm.PackageManager;
 import android.Manifest;
 import android.widget.Toast;
-import android.os.Bundle;
-import android.os.Environment;
-import android.os.Handler;
-import android.os.Message;
+import android.os.*;
 import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -57,21 +54,21 @@ import com.emotiv.insight.IEdk.IEE_Event_t;
 
 public class MainActivity extends Activity {
 
-	private Thread processingThread;
-	private static final int REQUEST_ENABLE_BT = 1;
-	private static final int MY_PERMISSIONS_REQUEST_BLUETOOTH = 0;
-	private BluetoothAdapter mBluetoothAdapter;
-	private boolean lock = false;
-	private boolean isEnablGetData = false;
-	private boolean isEnableWriteFile = false;
-	int userId;
-	private BufferedWriter motion_writer;
-	Button Start_button,Stop_button;
-	IEE_DataChannel_t[] Channel_list = {IEE_DataChannel_t.IED_AF3, IEE_DataChannel_t.IED_T7,IEE_DataChannel_t.IED_Pz,
-			IEE_DataChannel_t.IED_T8,IEE_DataChannel_t.IED_AF4};
-	String[] Name_Channel = {"AF3","T7","Pz","T8","AF4"};
-	@Override
-	protected void onCreate(Bundle savedInstanceState) {
+		private Thread processingThread;
+		private static final int REQUEST_ENABLE_BT = 1;
+		private static final int MY_PERMISSIONS_REQUEST_BLUETOOTH = 0;
+		private BluetoothAdapter mBluetoothAdapter;
+		private boolean lock = false;
+		private boolean isEnablGetData = false;
+		private boolean isEnableWriteFile = false;
+		int userId;
+		private BufferedWriter motion_writer;
+		Button Start_button,Stop_button;
+		IEE_DataChannel_t[] Channel_list = {IEE_DataChannel_t.IED_AF3, IEE_DataChannel_t.IED_T7,IEE_DataChannel_t.IED_Pz,
+				IEE_DataChannel_t.IED_T8,IEE_DataChannel_t.IED_AF4};
+		String[] Name_Channel = {"AF3","T7","Pz","T8","AF4"};
+		@Override
+		protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
